@@ -15,7 +15,7 @@
   -webkit-text-size-adjust: 100%;
 }
 
-nav{  
+nav{
   display: flex;
   width: 90vw;
   padding: 1rem;
@@ -58,7 +58,7 @@ h1:hover{
   transition: all ease 0.3s;
   cursor: pointer;
   padding: 0.5rem;
-  
+
 }
 
 .card:hover{
